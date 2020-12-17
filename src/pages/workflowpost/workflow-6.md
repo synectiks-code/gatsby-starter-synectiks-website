@@ -6,7 +6,7 @@ workflowjson:
     [
         {
             "title": "New Tab",
-            "tabTitle": "Condition",
+            "tabTitle": "Condition1",
             "subHeading": "Configure how Graylog should create Events of this kind. You can later use those Events as input on other Conditions, making it possible to build powerful Conditions based on others.",
             "content": [
                 {
